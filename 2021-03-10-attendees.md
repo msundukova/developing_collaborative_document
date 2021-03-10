@@ -2,9 +2,9 @@
 
 *Name/one thing you loved about this session or one thing you want to know more about GitHub*
 
-1. Yo - I love 🌹 watching people learn how to use github! 
+1.
 2.
-3.
+3.Mayya - i want to learn to make my webpage using github/gitpages - they look so cool
 4.
 5.
 6.
